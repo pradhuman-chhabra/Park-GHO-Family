@@ -67,7 +67,7 @@ export default function Home() {
               </ul>
             </Col>
           </Row>
-          <Row>
+          {/* <Row>
             <Col className="bot-marg" md="12" lg="12">
               <h1 className="section-heading">Tools</h1>
               <h4>
@@ -76,17 +76,47 @@ export default function Home() {
                 truflation Web3 ecosystem tools
               </h4>
             </Col>
-          </Row>
+          </Row> */}
 
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Target Market</h1>
 
             <img
-              src="/img/ParkTokenTarget.png"
+              src="/img/Group 11.png"
               style={{ width: "100%", borderRadius: "20px" }}
               alt="awards image"
             />
           </Col>
+        </Container>
+        {/* Mile wallet intro */}
+        <Container>
+          <h1 className="section-heading">Pay using Mile wallet</h1>
+
+          <Row>
+            <Col className="bot-marg" md="12" lg="6">
+              <img src="/img/milewallet.png" style={{ width: "100%" }} />
+            </Col>
+            <Col className="bot-marg" md="12" lg="6">
+              <ul>
+                <li>
+                  Effortless DeFi and NFT integration for a decentralized
+                  financial future.
+                </li>
+                <li>
+                  Securely purchase crypto using credit and debit cards, as well
+                  as various crypto assets.
+                </li>
+                <li>
+                  Seamless management of fiat and crypto payment options across
+                  desktop and mobile platforms.
+                </li>
+                <li>
+                  User-friendly interface for convenient navigation and control
+                  over your digital assets.
+                </li>
+              </ul>
+            </Col>
+          </Row>
         </Container>
         <Container>
           <Col className="bot-marg" md="12" lg="12">
