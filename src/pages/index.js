@@ -150,7 +150,7 @@ export default function Home() {
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/13.png"
+              src="/img/neartransportthumb.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
@@ -178,7 +178,7 @@ export default function Home() {
             <Col className="bot-marg" md="12" lg="12">
               <h1 className="section-heading">Tools</h1>
               <h4>
-                SAP UI5, Java, Ionic, Near,XRPL, IPFS and Filecoin, Fluence,
+                SAP UI5, Java, Ionic, Near, IPFS and Filecoin, Fluence,
                 Chainlink, Covalent, flow, aws, space and time, verse,
                 truflation Web3 ecosystem tools
               </h4>

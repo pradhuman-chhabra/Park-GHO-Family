@@ -20,7 +20,7 @@ export default function Home() {
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/13.png"
+              src="/img/13.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
@@ -29,19 +29,19 @@ export default function Home() {
         <Container>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/14.png"
+              src="/img/14.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/15.png"
+              src="/img/15.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/16.png"
+              src="/img/16.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
@@ -50,38 +50,38 @@ export default function Home() {
               Spare Parts NFT Marketplace: Near and Consensys Tools
             </h1>
             <img
-              src="/img/platform/17.png"
+              src="/img/17.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Future Roadmap on Near </h1>
             <img
-              src="/img/platform/20.png"
+              src="/img/20.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/22.png"
+              src="/img/22.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/23.png"
+              src="/img/23.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/24.png"
+              src="/img/24.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/platform/25.png"
+              src="/img/25.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
