@@ -2,7 +2,7 @@ import Layout from "@/component/layout";
 // import { ImageList, ImageListItem } from "@mui/material";
 import { Carousel, Col, Container, Row } from "react-bootstrap";
 
-export default function lifeAtDOD() {
+export default function teammembers() {
   return (
     <Layout>
       <Container>

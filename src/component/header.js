@@ -38,7 +38,7 @@ export default function Header() {
             <Nav.Link href="/platform">Impact</Nav.Link>
             <Nav.Link href="/wallet">Miles Wallet</Nav.Link>
             {/* <Nav.Link href="/workflow">Traffic Management System</Nav.Link> */}
-            <Nav.Link href="/team">Team</Nav.Link>
+            <Nav.Link href="/teammembers">Team</Nav.Link>
             {/* <Nav.Link href="/testimonials">Notable Achievements </Nav.Link> */}
           </Nav>
         </Navbar.Collapse>
