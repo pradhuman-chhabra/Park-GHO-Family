@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Park Token</title>
+        <title>Park Plus Token (PPT)</title>
         <meta name="description" content="Aspiring Road Safety" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -21,8 +21,8 @@ export default function Home() {
             <Container>
               <p>
                 <strong>
-                  Unlock the future with Park Token: Where cutting-edge
-                  blockchain meets limitless possibilities, driving Web2
+                  Unlock the future with Park Plus Token (PPT): Where cutting-edge
+                  blockchain meets limitless possibilities, driving Mobility
                   enterprises into the boundless realms of Web3 innovation!
                 </strong>
               </p>
