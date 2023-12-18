@@ -21,11 +21,11 @@ export default function Header() {
           <Image
             src="/img/Park Navbar Logo.png"
             height="60"
-            width="60"
+            width="310"
             alt="Park Token"
-            style={{ marginRight: "15px" }}
+            // style={{ marginRight: "15px" }}
           />
-          <strong>Park Plus Token (PPT)</strong>
+          {/* <strong>Park Plus Token (PPT)</strong> */}
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

@@ -82,7 +82,7 @@ export default function Home() {
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/13.png"
+              src="/img/roadguardinfo.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
