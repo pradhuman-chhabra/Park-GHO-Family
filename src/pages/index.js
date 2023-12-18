@@ -172,15 +172,15 @@ export default function Home() {
         </Container>
         <Container>
           <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">Platform Features</h1>
+            <h1 className="section-heading">Impact</h1>
             <img
-              src="/img/11.png"
+              src="/img/neartransportthumb.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <img
-              src="/img/neartransportthumb.png"
+              src="/img/11.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>

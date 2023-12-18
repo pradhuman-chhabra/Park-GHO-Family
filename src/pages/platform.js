@@ -9,25 +9,10 @@ export default function Home() {
   return (
     <Layout>
       <>
-        {/* road side assistance */}
+        {/* Near Transport Intel */}
         <Container>
           <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">Platform Features</h1>
-            <img
-              src="/img/11.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-          <Col className="bot-marg" md="12" lg="12">
-            <img
-              src="/img/13.png"
-              style={{ width: "100%", borderRadius: "20px" }}
-            />
-          </Col>
-        </Container>
-
-        <Container>
-          <Col className="bot-marg" md="12" lg="12">
+          <h1 className="section-heading">Impact</h1>
             <img
               src="/img/14.png"
               style={{ width: "100%", borderRadius: "20px" }}
@@ -82,6 +67,22 @@ export default function Home() {
           <Col className="bot-marg" md="12" lg="12">
             <img
               src="/img/25.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+        </Container>
+
+        {/* road side assistance */}
+        <Container>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/11.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/13.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
