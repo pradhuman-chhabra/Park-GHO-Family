@@ -19,10 +19,9 @@ export default function Home() {
         <div className={styles.banner}>
           <div className={styles.heroSection}>
             <Container>
-              <p style={{fontSize:"25px", fontStyle:"italic"}}>
-                
-                <strong>Park Plus Token(PPT)</strong> Revolutionizing Sustainable Mobility & Road Safety
-                
+              <p style={{ fontSize: "25px", fontStyle: "italic" }}>
+                <strong>Park Plus Token(PPT)</strong> Revolutionizing
+                Sustainable Mobility & Road Safety
               </p>
 
               {/* <Button href="#!" target="_blank">Any Button</Button> */}
