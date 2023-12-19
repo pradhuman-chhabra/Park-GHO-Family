@@ -7,10 +7,10 @@ export default function teammembers() {
     <Layout>
       <Container>
         <h1 className="section-heading">Team</h1>
-        <Col className="bot-marg" md="12" lg="6">
+        <Col className="bot-marg" md="12" lg="12">
           <iframe
             src="https://docs.google.com/forms/d/e/1FAIpQLSfaIRVZboM1w0LmSZMny66KHfZKvzzNpZWph_SApGo6CFxgzA/viewform?embedded=true"
-            width="640"
+            width="800"
             height="766"
             frameborder="0"
             marginheight="0"
