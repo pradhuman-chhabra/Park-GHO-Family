@@ -6,7 +6,7 @@ export default function teammembers() {
   return (
     <Layout>
       <Container>
-        <h1 className="section-heading">Team</h1>
+        <h1 className="section-heading">Core Team</h1>
 
         <ul>
           <li>
@@ -45,6 +45,58 @@ export default function teammembers() {
               pradhumanchhabra1999@gmail.com
             </a>
             ) - Design and develop Web3 tools and platforms
+          </li>
+          <br />
+        </ul>
+
+        <h1 className="section-heading">Advisors</h1>
+        <ul>
+          <li>
+            <strong>Vibhor Bijoy</strong>: (Email:{" "}
+            <a href="mailto:bijoy.vibhor19@gmail.com">
+              bijoy.vibhor19@gmail.com
+            </a>
+            ) - Vibhor is our expert on developing security solutions,
+            compliance software. With multiple years of experience at Thales
+            (https://www.thalesgroup.com), he will enable us to go live. He will
+            also enable us to do a pilot project at IIT Delhi.
+          </li>
+          <br />
+          <li>
+            <strong>Dr M.P.S. Bhatia</strong>: (Email:{" "}
+            <a href="mailto:aspiringuserapps@gmail.com">
+              aspiringuserapps@gmail.com
+            </a>
+            ) - Dr MPS Bhatia is the key enabler on piloting this project at
+            Delhi. He is our go to mentor on building business partnerships with
+            Ministry of Health.
+          </li>
+          <br />
+          <li>
+            <strong>Praveen Patel</strong>: (Email:{" "}
+            <a href="mailto:android.seeta.dev@gmail.com">
+              android.seeta.dev@gmail.com
+            </a>
+            ) - Praveen is our support and logistics executive, who looks after
+            maintenance and support efforts.
+          </li>
+          <br />
+          <li>
+            <strong>Usha Gupta</strong>: (Email:{" "}
+            <a href="mailto:seeta.team@gmail.com">seeta.team@gmail.com</a>) -
+            UI/UX Tester and Design Expert
+          </li>
+          <br />
+          <li>
+            <strong>Arvind Kumar Gupta</strong>: (Email:{" "}
+            <a href="mailto:arvindsenior@gmail.com">arvindsenior@gmail.com</a>)
+            - Business Development and Strategic Guidance
+          </li>
+          <br />
+          <li>
+            <strong>Rakhee</strong>: (Email:{" "}
+            <a href="mailto:financeseeta@gmail.com">financeseeta@gmail.com</a>)
+            - OP Developer Support and Regional Community Volunteer
           </li>
           <br />
         </ul>
