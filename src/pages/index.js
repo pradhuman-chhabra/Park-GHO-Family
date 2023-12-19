@@ -196,6 +196,18 @@ export default function Home() {
             </Col>
           </Row>
         </Container>
+
+        <Container>
+          <h1 className="section-heading">White Paper</h1>
+
+          <p>
+            {" "}
+            Click here to view the white paper{" "}
+            <a href="https://docs.google.com/document/d/1GLyrNK3_Hd-DsL06RussjYluMox2v-EokIgzJtrcglQ/edit?usp=sharing">
+              Click here
+            </a>
+          </p>
+        </Container>
       </>
     </Layout>
   );
