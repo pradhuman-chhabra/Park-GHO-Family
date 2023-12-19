@@ -52,27 +52,6 @@ export default function teammembers() {
         <h1 className="section-heading">Advisors</h1>
         <ul>
           <li>
-            <strong>Vibhor Bijoy</strong>: (Email:{" "}
-            <a href="mailto:bijoy.vibhor19@gmail.com">
-              bijoy.vibhor19@gmail.com
-            </a>
-            ) - Vibhor is our expert on developing security solutions,
-            compliance software. With multiple years of experience at Thales
-            (https://www.thalesgroup.com), he will enable us to go live. He will
-            also enable us to do a pilot project at IIT Delhi.
-          </li>
-          <br />
-          <li>
-            <strong>Dr M.P.S. Bhatia</strong>: (Email:{" "}
-            <a href="mailto:aspiringuserapps@gmail.com">
-              aspiringuserapps@gmail.com
-            </a>
-            ) - Dr MPS Bhatia is the key enabler on piloting this project at
-            Delhi. He is our go to mentor on building business partnerships with
-            Ministry of Health.
-          </li>
-          <br />
-          <li>
             <strong>Praveen Patel</strong>: (Email:{" "}
             <a href="mailto:android.seeta.dev@gmail.com">
               android.seeta.dev@gmail.com
@@ -97,6 +76,30 @@ export default function teammembers() {
             <strong>Rakhee</strong>: (Email:{" "}
             <a href="mailto:financeseeta@gmail.com">financeseeta@gmail.com</a>)
             - OP Developer Support and Regional Community Volunteer
+          </li>
+          <br />
+        </ul>
+        <h1 className="section-heading">Executives</h1>
+        <ul>
+          <li>
+            <strong>Vibhor Bijoy</strong>: (Email:{" "}
+            <a href="mailto:bijoy.vibhor19@gmail.com">
+              bijoy.vibhor19@gmail.com
+            </a>
+            ) - Vibhor is our expert on developing security solutions,
+            compliance software. With multiple years of experience at Thales
+            (https://www.thalesgroup.com), he will enable us to go live. He will
+            also enable us to do a pilot project at IIT Delhi.
+          </li>
+          <br />
+          <li>
+            <strong>Dr M.P.S. Bhatia</strong>: (Email:{" "}
+            <a href="mailto:aspiringuserapps@gmail.com">
+              aspiringuserapps@gmail.com
+            </a>
+            ) - Dr MPS Bhatia is the key enabler on piloting this project at
+            Delhi. He is our go to mentor on building business partnerships with
+            Ministry of Health.
           </li>
           <br />
         </ul>

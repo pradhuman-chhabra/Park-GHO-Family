@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import { Inter } from "next/font/google";
+import { Inter, Montserrat } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import Layout from "@/component/layout";
 import { Button, Card, Col, Container, Modal, Row } from "react-bootstrap";
@@ -19,10 +19,10 @@ export default function Home() {
         <div className={styles.banner}>
           <div className={styles.heroSection}>
             <Container>
-              <p>
-                <strong>
-                Park Plus Token(PPT): Revolutionizing Sustainable Mobility & Road Safety
-                </strong>
+              <p style={{fontSize:"25px", fontStyle:"italic"}}>
+                
+                <strong>Park Plus Token(PPT)</strong> Revolutionizing Sustainable Mobility & Road Safety
+                
               </p>
 
               {/* <Button href="#!" target="_blank">Any Button</Button> */}
@@ -151,7 +151,7 @@ export default function Home() {
 
         <Container>
           <Col className="bot-marg" md="12" lg="12">
-            <h1 className="section-heading">Use Of Funds</h1>
+            <h1 className="section-heading">Token Fund-Raising Objectives</h1>
             <img
               src="/img/useoffunds.png"
               style={{ width: "100%", borderRadius: "20px" }}
