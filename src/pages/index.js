@@ -21,10 +21,7 @@ export default function Home() {
             <Container>
               <p>
                 <strong>
-                  Unlock the future with Park Plus Token (PPT): Where
-                  cutting-edge blockchain meets limitless possibilities, driving
-                  Mobility enterprises into the boundless realms of Web3
-                  innovation!
+                Park Plus Token(PPT): Revolutionizing Sustainable Mobility & Road Safety
                 </strong>
               </p>
 
