@@ -21,9 +21,10 @@ export default function Home() {
             <Container>
               <p>
                 <strong>
-                  Unlock the future with Park Plus Token (PPT): Where cutting-edge
-                  blockchain meets limitless possibilities, driving Mobility
-                  enterprises into the boundless realms of Web3 innovation!
+                  Unlock the future with Park Plus Token (PPT): Where
+                  cutting-edge blockchain meets limitless possibilities, driving
+                  Mobility enterprises into the boundless realms of Web3
+                  innovation!
                 </strong>
               </p>
 
@@ -67,16 +68,6 @@ export default function Home() {
               </ul>
             </Col>
           </Row>
-          {/* <Row>
-            <Col className="bot-marg" md="12" lg="12">
-              <h1 className="section-heading">Tools</h1>
-              <h4>
-                SAP UI5, Java, Ionic, Near,XRPL, IPFS and Filecoin, Fluence,
-                Chainlink, Covalent, flow, aws, space and time, verse,
-                truflation Web3 ecosystem tools
-              </h4>
-            </Col>
-          </Row> */}
 
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Target Market</h1>
@@ -204,7 +195,7 @@ export default function Home() {
               </h5>
             </Col>
           </Row>
-          <Row>
+          {/* <Row>
             <Col className="bot-marg" md="12" lg="12">
               <h1 className="section-heading">Tools</h1>
               <h4>
@@ -213,9 +204,9 @@ export default function Home() {
                 truflation Web3 ecosystem tools
               </h4>
             </Col>
-          </Row>
+          </Row> */}
 
-          <Col className="bot-marg" md="12" lg="12">
+          {/* <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">What it does?</h1>
 
             <img
@@ -223,10 +214,10 @@ export default function Home() {
               style={{ width: "100%" }}
               alt="awards image"
             />
-          </Col>
+          </Col> */}
         </Container>
 
-        <Container>
+        {/* <Container>
           <h1 className="section-heading">Features</h1>
           <Col className="bot-marg" md="12" lg="12">
             <img src="/img/Group 12.png" style={{ width: "100%" }} />
@@ -274,7 +265,7 @@ export default function Home() {
               </li>
             </ul>
           </Col>
-        </Container>
+        </Container> */}
       </>
     </Layout>
   );
