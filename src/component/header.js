@@ -1,9 +1,7 @@
 import styles from "@/styles/header.module.css";
-import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
+import { Container, Nav, Navbar } from "react-bootstrap";
 import Image from "next/image";
 import { useRouter } from "next/router";
-import LaunchIcon from "@mui/icons-material/Launch";
-import { Margin } from "@mui/icons-material";
 
 export default function Header() {
   const { asPath } = useRouter();
@@ -34,7 +32,10 @@ export default function Header() {
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
           <Nav placement="end" activeKey={asPath} className={styles.nav}>
             <Nav.Link href="/">Home</Nav.Link>
+
             {/* <Nav.Link href="/vision">Architechture</Nav.Link> */}
+            <Nav.Link href="/partners">Partners</Nav.Link>
+
             <Nav.Link href="/platform">Impact</Nav.Link>
             <Nav.Link href="/wallet">Miles Wallet</Nav.Link>
             {/* <Nav.Link href="/workflow">Traffic Management System</Nav.Link> */}
