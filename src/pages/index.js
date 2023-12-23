@@ -171,6 +171,12 @@ export default function Home() {
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/drone.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
         </Container>
 
         <Container>

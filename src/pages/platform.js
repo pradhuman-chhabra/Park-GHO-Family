@@ -88,6 +88,22 @@ export default function Home() {
           </Col>
         </Container>
 
+         {/* drone monitor assistance */}
+         <Container>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/drone.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/drone2.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+        </Container>
+
         <Container>
           <h1 className="section-heading">Vision</h1>
 
