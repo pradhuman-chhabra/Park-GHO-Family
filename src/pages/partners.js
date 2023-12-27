@@ -27,6 +27,16 @@ export default function Home() {
               src="/img/3.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
+            <h1 className="section-heading">Blockchain Partners</h1>
+            <img
+              src="/img/partners.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+            <h1 className="section-heading">Blockchain Ecosystem</h1>
+            <img
+              src="/img/ecosystem.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
           </Col>
           <Col className="bot-marg" md="12" lg="12">
             <h1 className="section-heading">Achivements</h1>
