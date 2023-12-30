@@ -178,7 +178,12 @@ export default function Home() {
             />
           </Col>
         </Container>
-
+        <Col className="bot-marg" md="12" lg="12">
+          <img
+            src="/img/26.png"
+            style={{ width: "100%", borderRadius: "20px" }}
+          />
+        </Col>
         <Container>
           <h1 className="section-heading">Vision</h1>
 

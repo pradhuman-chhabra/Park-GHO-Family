@@ -12,7 +12,7 @@ export default function Home() {
         {/* Near Transport Intel */}
         <Container>
           <Col className="bot-marg" md="12" lg="12">
-          <h1 className="section-heading">Impact</h1>
+            <h1 className="section-heading">Impact</h1>
             <img
               src="/img/14.png"
               style={{ width: "100%", borderRadius: "20px" }}
@@ -88,8 +88,8 @@ export default function Home() {
           </Col>
         </Container>
 
-         {/* drone monitor assistance */}
-         <Container>
+        {/* drone monitor assistance */}
+        <Container>
           <Col className="bot-marg" md="12" lg="12">
             <img
               src="/img/drone.png"
@@ -99,6 +99,39 @@ export default function Home() {
           <Col className="bot-marg" md="12" lg="12">
             <img
               src="/img/drone2.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+        </Container>
+        {/* pptx park plus token xafe */}
+        <Container>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/26.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/27.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/28.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/29.png"
+              style={{ width: "100%", borderRadius: "20px" }}
+            />
+          </Col>
+          <Col className="bot-marg" md="12" lg="12">
+            <img
+              src="/img/30.png"
               style={{ width: "100%", borderRadius: "20px" }}
             />
           </Col>
